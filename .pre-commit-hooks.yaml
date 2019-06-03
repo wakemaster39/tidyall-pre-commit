@@ -1,0 +1,9 @@
+-   id: tidyall
+    name: tidyall
+    entry: tidyall
+    language: system 
+    files: *.p[lm]
+    'types': [files]
+    args: []
+    require_serial: false
+    additional_dependencies: []
