@@ -3,7 +3,7 @@
     entry: tidyall --no-cache
     language: system 
     files: *.p[lm]
-    'types': [files]
+    types: [file]
     args: []
     require_serial: false
     additional_dependencies: []
