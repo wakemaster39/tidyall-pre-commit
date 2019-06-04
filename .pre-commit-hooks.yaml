@@ -1,6 +1,6 @@
 -   id: tidyall
     name: tidyall
-    entry: tidyall
+    entry: tidyall --no-cache
     language: system 
     files: *.p[lm]
     'types': [files]
