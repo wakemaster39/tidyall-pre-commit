@@ -1,9 +1,7 @@
 -   id: tidyall
     name: tidyall
-    entry: tidyall --no-cache
+    entry: tidyall --no-cache 
     language: system 
-    files: *.p[lm]
+    files: ".pm"
     types: [file]
-    args: []
-    require_serial: false
-    additional_dependencies: []
+    require_serial: true 
